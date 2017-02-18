@@ -1,0 +1,1 @@
+console.log("game is linked");
